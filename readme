@@ -1,0 +1,27 @@
+Nathaniel Miller - nwmiller
+nwmiller@wpi.edu
+
+Assignment #3 readme:
+
+	Program Description:
+		This program's purpose is to demonstrate character arrays, custom written versions of the standard C string functions, dynamically-allocated memory using malloc, calloc, and free; structs, and functions that operate and manipulate the items mentioned beforehand. As well as generation of random data and filling structs with randomly generated data.
+
+Instructions:
+	1. Create directory for all assigment files. Or use an existing directory.
+	2. Copy or move all source files, including headers, makefile, and Doxyfile to 			created or existing directory.
+	3. In Terminal travel to directory that the files were copied or moved into.
+	4. Use the "make" (without quotes) command in Terminal in order to both 		compile all the .c files into .o files and to link them into the 			respective executables with their proper dependcies. See the makefile
+		for more detail.
+	5. To run the programs, use the following command in Terminal:
+		./ctest
+	6. To generate HTML files for the program and code documentation,
+		simply use the "make docs" (without quotes) command in Terminal.
+		This will generate all the necessary HTML files and copy them to the
+		public_html (make sure a directory "assig3" is in the public_html 			folder) folder. The HTML files should then be viewable online.
+
+
+Thanks.
+
+- Nathaniel Miller
+nwmiller@wpi.edu
+WPI '14
